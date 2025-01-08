@@ -1,5 +1,6 @@
 ![custom](https://github.com/pawar03/Credit-card-spending-habit-in-India--SQL/blob/c38bca6f9c5db27e19e743a0e9e59851cedbc6ad/Credit%20card%20spending%20habits%20in%20India/Screenshot%202025-01-08%20163329.png)
 
+
 I recently came across a case study on the Kaggle website. As a data analyst, I found this challenge to be a great way to showcase my SQL skills and improve my problem-solving abilities.
 
 Imported the dataset in SQL server with table name: credit_card_transcations             
